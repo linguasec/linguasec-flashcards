@@ -1,0 +1,21 @@
+English,French,Definition_EN,Definition_FR
+Firewall,Pare-feu,A network security device that monitors and controls incoming and outgoing traffic.,Un dispositif de sécurité réseau qui surveille et contrôle le trafic entrant et sortant.
+IP Address,Adresse IP,A unique string of numbers identifying a device on a network.,Une suite unique de chiffres identifiant un appareil sur un réseau.
+Malware,Logiciel malveillant,"Software designed to disrupt, damage, or gain unauthorised access.","Logiciel conçu pour perturber, endommager ou accéder sans autorisation."
+Phishing,Hameçonnage,Fraudulent attempt to obtain sensitive information by pretending to be a trustworthy entity.,Tentative frauduleuse d'obtenir des informations sensibles en se faisant passer pour une entité fiable.
+VPN,VPN,A service that encrypts your internet traffic and masks your online identity.,Un service qui chiffre votre trafic Internet et masque votre identité en ligne.
+SIEM,SIEM,A system that collects and analyses security logs in real time.,Un système qui collecte et analyse les journaux de sécurité en temps réel.
+Encryption,Chiffrement,The process of converting data into unreadable form to protect it.,Le processus de conversion de données en une forme illisible pour les protéger.
+Threat Actor,Acteur malveillant,An entity that performs or plans cyber attacks.,Une entité qui mène ou planifie des cyberattaques.
+Brute Force,Attaque par force brute,Trying many passwords or keys until the correct one is found.,Essayer de nombreux mots de passe ou clés jusqu'à trouver le bon.
+Exploit,Exploit,A method used to take advantage of a vulnerability.,Une méthode utilisée pour exploiter une vulnérabilité.
+Vulnerability,Vulnérabilité,A weakness that can be exploited by an attacker.,Une faiblesse pouvant être exploitée par un attaquant.
+Two-Factor Authentication,Authentification à deux facteurs,A method of confirming identity using two different factors.,Une méthode de confirmation d'identité utilisant deux facteurs différents.
+Port Scanning,Analyse de ports,A technique to find open ports on a target system.,Une technique pour trouver les ports ouverts sur un système cible.
+Zero-Day,Vulnérabilité zero-day,"A vulnerability unknown to the vendor, with no patch available.","Une vulnérabilité inconnue du fournisseur, sans correctif disponible."
+IDS,IDS,A system that detects suspicious activity on a network.,Un système qui détecte une activité suspecte sur un réseau.
+Hashing,Hachage,"Transforming data into a fixed-size string, typically for integrity.","Transformer des données en une chaîne de taille fixe, généralement pour l'intégrité."
+Payload,Charge utile,The part of malware that performs the malicious action.,La partie du logiciel malveillant qui exécute l'action malveillante.
+Social Engineering,Ingénierie sociale,Manipulating people to gain confidential information.,Manipuler des personnes pour obtenir des informations confidentielles.
+DNS,DNS,The system that translates domain names into IP addresses.,Le système qui traduit les noms de domaine en adresses IP.
+Botnet,Réseau de bots,A group of infected machines controlled as a unit.,Un groupe de machines infectées contrôlées comme une seule entité.
